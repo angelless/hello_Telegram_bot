@@ -15,9 +15,9 @@ import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.exceptions.TelegramApiRequestException;
 import org.telegram.telegrambots.logging.BotLogger;
 
-import updateshandler.CommandsHandler;
+import handlers.CommandsHandler;
 
-public class main {
+public class Main {
 	public static final Calendar date = Calendar.getInstance();
 	private static final String LOGTAG = "MAIN";
 	public static void main(String[] args) {
