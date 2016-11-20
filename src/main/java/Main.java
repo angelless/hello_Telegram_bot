@@ -1,4 +1,4 @@
-package telegramBot;
+package hello_telegram_bot;
 
 import java.util.ArrayList;
 import java.util.Calendar;
