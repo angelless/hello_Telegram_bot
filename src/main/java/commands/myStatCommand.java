@@ -10,7 +10,7 @@ import org.telegram.telegrambots.logging.BotLogger;
 
 public class HelloCommand extends BotCommand {
 
-	public myStatCommand() {
+	public HelloCommand() {
 		super("Hello", "say Hello");
 
 	}
