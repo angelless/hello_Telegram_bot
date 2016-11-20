@@ -8,7 +8,7 @@ import org.telegram.telegrambots.bots.commands.BotCommand;
 import org.telegram.telegrambots.exceptions.TelegramApiException;
 import org.telegram.telegrambots.logging.BotLogger;
 
-public class myStatCommand extends BotCommand {
+public class HelloCommand extends BotCommand {
 
 	public myStatCommand() {
 		super("Hello", "say Hello");
